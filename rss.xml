@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[Wedding Photography of Dreamtime Images]]></title>
         <description><![CDATA[Wedding Photography of Dreamtime Images]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/dreamtimeimages/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 30 Mar 2016 18:30:59 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Wed, 30 Mar 2016 18:31:00 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/dreamtimeimages/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Destination Wedding Photographer in Colorado]]></title>
+            <description><![CDATA[<article><h1>Destination Wedding Photographer in Colorado</h1><p>Congratulations on your engagement, and thank you so much for visiting Dreamtime Images' destination wedding photography site! I'm excited to hear more about your wedding, and perhaps document your once in a lifetime celebration.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/47bdd51875b1b9665fdace70d1ab372ae32016a3.jpg"></article>]]></description>
+            <link>http://dreamtimeimages.com/</link>
+            <guid isPermaLink="false">5fcc652b-b10e-4797-8cc7-8861fd4824ec</guid>
+            <pubDate>Wed, 30 Mar 2016 18:30:59 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<p>capture</p>]]></description>
-            <link>undefinedcapture/index.html</link>
+            <link>https://thegrid.ai/dreamtimeimages/capture/index.html</link>
             <guid isPermaLink="false">cd0d338c-8bf6-4a7f-9639-7e8173307a00</guid>
             <pubDate>Wed, 30 Mar 2016 18:30:59 GMT</pubDate>
         </item>
