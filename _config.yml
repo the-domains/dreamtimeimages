@@ -1,6 +1,6 @@
 name: Dreamtime Images
 favicon: null
-layout_spectrum: 1
+layout_spectrum: 0
 typography_spectrum: 0.49371
 title: 'Dreamtime Images | Wedding Photography'
 cta:
@@ -23,7 +23,7 @@ color:
     - '#bfdf80'
     - '#b6b66d'
   brandStrength: 0
-  lightness: 0.0625
+  lightness: 1
   saturation: 1
   rhythmicContrast: 0
 purpose: []
