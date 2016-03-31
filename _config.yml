@@ -24,6 +24,6 @@ color:
     - '#b6b66d'
   brandStrength: 0
   lightness: 0.0625
-  saturation: 0
+  saturation: 1
   rhythmicContrast: 0
 purpose: []
